@@ -1,0 +1,10 @@
+C:\Downloads\CD-REC\TEST\bpg\bpg\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\TEST\bpg\bpg\bin\Debug\bpg.exe
+C:\Downloads\CD-REC\TEST\bpg\bpg\bin\Debug\bpg.pdb
+C:\Downloads\CD-REC\TEST\bpg\bpg\obj\Debug\bpg.exe
+C:\Downloads\CD-REC\TEST\bpg\bpg\obj\Debug\bpg.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20200623H\PLUGIN_RuspetrolGrabber_[Sources]_20200624H\bpg\obj\Debug\bpg.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20200623H\PLUGIN_RuspetrolGrabber_[Sources]_20200624H\bpg\obj\Debug\bpg.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20200623H\PLUGIN_RuspetrolGrabber_[Sources]_20200624H\bpg\bin\Debug\bpg.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20200623H\PLUGIN_RuspetrolGrabber_[Sources]_20200624H\bpg\bin\Debug\bpg.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20200623H\PLUGIN_RuspetrolGrabber_[Sources]_20200624H\bpg\obj\Debug\ResolveAssemblyReference.cache
